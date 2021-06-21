@@ -1,3 +1,4 @@
+
 #
 # Copyright (C) 2020 The LineageOS Project
 #
@@ -181,6 +182,10 @@ PRODUCT_COPY_FILES += \
 # Ril
 PRODUCT_PACKAGES += \
     android.hardware.radio@1.4
+
+# Recorder
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
