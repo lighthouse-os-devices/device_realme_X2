@@ -188,6 +188,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.radio@1.4
 
+# Recorder
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
