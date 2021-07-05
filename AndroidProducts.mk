@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_X2.mk
+    $(LOCAL_DIR)/lighthouse_X2.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_X2-userdebug \
-    lineage_X2-user \
-    lineage_X2-eng
+    lighthouse_X2-userdebug \
+    lighthouse_X2-user \
+    lighthouse_X2-eng
