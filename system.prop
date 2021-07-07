@@ -76,6 +76,9 @@ ro.vendor.display.ad=1
 ro.vendor.display.sensortype=2
 ro.vendor.display.ad.sdr_calib_data=/vendor/etc/OPPO_OLED_AD_calib.cfg
 
+# Gboard
+ro.com.google.ime.kb_pad_port_b=1
+
 # Graphics
 dev.pm.dyn_samplingrate=1
 persist.front.skipdisplay.enable=1
