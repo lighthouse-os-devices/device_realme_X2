@@ -86,6 +86,7 @@ debug.cpurend.vsync=false
 
 # IORAP
 ro.iorapd.enable=true
+iorapd.perfetto.enable=true
 
 #lmkd options
 ro.config.low_ram=false
