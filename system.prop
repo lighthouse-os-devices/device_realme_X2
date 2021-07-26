@@ -81,6 +81,9 @@ dev.pm.dyn_samplingrate=1
 persist.front.skipdisplay.enable=1
 debug.cpurend.vsync=false
 
+# IORAP
+ro.iorapd.enable=true
+
 #lmkd option
 ro.config.low_ram=false
 ro.lmk.log_stats=true
