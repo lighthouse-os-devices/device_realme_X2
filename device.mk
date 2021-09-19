@@ -193,17 +193,6 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     textclassifier.bundle1
 
-# Trust HAL
-PRODUCT_PACKAGES += \
-    lineage.trust@1.0-service
-
-# WiFi Display
-PRODUCT_PACKAGES += \
-    libnl
-
-#PRODUCT_BOOT_JARS += \
-    WfdCommon
-
 # Lights
 PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.x2
