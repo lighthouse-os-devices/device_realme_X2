@@ -76,7 +76,7 @@ PRODUCT_PACKAGES += \
 
 # Doze
 PRODUCT_PACKAGES += \
-    RealmeHardwareAssist
+    RealmeProximityHelper
 
 # RealmeParts
 $(call inherit-product, device/realme/X2/RealmeParts/parts.mk)
