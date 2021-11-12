@@ -141,4 +141,7 @@
         <permission name="android.permission.BACKUP"/>    
     </privapp-permissions>
     
+    <privapp-permissions package="com.google.android.apps.setupwizard.searchselector">        
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+    </privapp-permissions>
 </permissions>
