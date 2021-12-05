@@ -6,11 +6,11 @@
 
 $(call inherit-product, device/realme/X2/device.mk)
 
-# Inherit some common ShapeShift stuff.
-$(call inherit-product, vendor/ssos/config/common_full_phone.mk)
+# Inherit some common Lighthouse stuff.
+$(call inherit-product, vendor/lighthouse/config/common.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := ssos_X2
+PRODUCT_NAME := lighthouse_X2
 PRODUCT_DEVICE := X2
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := realme X2

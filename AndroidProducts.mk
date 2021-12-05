@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_X2.mk
+    $(LOCAL_DIR)/lighthouse_X2.mk
